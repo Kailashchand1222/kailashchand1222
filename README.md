@@ -1,4 +1,4 @@
-## Hi there 👋
+                         
 
 
 <h1 align="center">Hi 👋, I'm kailash chand</h1>
@@ -8,8 +8,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailashchand1222&label=Profile%20views&color=0e75b6&style=flat" alt="kailashchand1222" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kailashchand1222" alt="kailashchand1222" /></a> </p>
 
 
 - 📫 How to reach me **chandkailash1222@gmail.com**
