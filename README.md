@@ -1,4 +1,123 @@
-                         
+ <!-- 🔥 Animated Typing Header -->
+<h1 align="center">Hi 👋, I'm Kailash Chand</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Game+%7C+Web+%7C+App+Developer;Lifelong+Learner+🚀;Future+Software+Engineer" />
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Engineering Student  
+📚 Currently learning:
+- Data Structures & Algorithms  
+- System Programming  
+- Web Development  
+
+🎯 **Goal:** Become a multi-skilled developer across multiple domains.
+
+💡 Passionate about building, learning, and improving every day.
+
+---
+
+## 🧠 Skill Progress
+
+```
+C / C++         █████████░░ 80%
+Python          ███████░░░░ 65%
+HTML            ████████░░ 75%
+Problem Solving ███████░░░░ 70%
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=unity,ps" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kailashchand1222&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashchand1222&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+🚧 *Coming Soon...*  
+I am currently working on uploading quality projects. Stay tuned!
+
+---
+
+## 🌐 Portfolio
+
+💼 Portfolio Website (Coming Soon...)  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kailash-chand-thakuri-2b9996316">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
+
+📧 Email: **chandkailash1222@gmail.com**
+
+---
+
+## ⚡ Fun Zone
+
+😅 Sometimes my code works on the first try... and I get suspicious.
+
+<p align="center">
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+✔️ Mastering DSA  
+✔️ Building real-world projects  
+✔️ Exploring development fields  
+✔️ Becoming consistent every day  
+
+---
+
+## 💬 Motto
+
+> **Code. Learn. Build. Repeat. 🚀**
+
+---
+
+⭐️ *Thanks for visiting my profile! Let's grow together!* 🚀                        
 
 
 <h1 align="center">Hi 👋, I'm kailash chand</h1>
