@@ -1,6 +1,12 @@
- <!-- 🔥 Animated Typing Header -->
+<!-- 🔥 Animated Typing Header -->
 <h1 align="center">Hi 👋, I'm Kailash Chand</h1>
 
+<!-- ✅ Profile Photo -->
+<p align="center">
+  <img src="https://www.facebook.com/0fficialShinchan/" width="150" style="border-radius:50%" />
+</p>
+
+<!-- ✅ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Game+%7C+Web+%7C+App+Developer;Lifelong+Learner+🚀;Future+Software+Engineer" />
 </p>
@@ -73,9 +79,9 @@ I am currently working on uploading quality projects. Stay tuned!
 
 ## 🌐 Portfolio
 
-https://kailashchand1222.com.np/
+💼 Portfolio Website :https://kailashchand1222.com.np/ 
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -117,8 +123,7 @@ https://kailashchand1222.com.np/
 
 ---
 
-⭐️ *Thanks for visiting my profile! Let's grow together!* 🚀                        
-
+⭐️ *Thanks for visiting my profile! Let's grow together!* 🚀
 
 <h3 align="center">Always excited to learn new things!</h3>
 <p align="center">
