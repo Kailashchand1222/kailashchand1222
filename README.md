@@ -120,7 +120,6 @@ https://kailashchand1222.com.np/
 ⭐️ *Thanks for visiting my profile! Let's grow together!* 🚀                        
 
 
-<h1 align="center">Hi 👋, I'm kailash chand</h1>
 <h3 align="center">Always excited to learn new things!</h3>
 <p align="center">
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -129,12 +128,7 @@ https://kailashchand1222.com.np/
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailashchand1222&label=Profile%20views&color=0e75b6&style=flat" alt="kailashchand1222" /> </p>
 
 
-- 📫 How to reach me **chandkailash1222@gmail.com**
-
-- 📄 Know about my experiences  I am at the early stage of my learning journey, continuously exploring and improving my skills every day.
-
-- ⚡ Fun fact **I take my career seriously, but my code still jokes with me sometimes  😅**
-
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -142,15 +136,7 @@ https://kailashchand1222.com.np/
 </p>
 
 
-<h2 align="left">About me</h2>
 
-<p align="left">
-✨ I am currently studying computer engineering <code></code><br>
-📚 I'm currently learning Data Structures, System Programming, and Web Development<br>
-🎯 Goals: To become a multi-skilled developer — Game Developer, App Developer, Web Developer, Software Engineer, and Program Developer<br>
-🎲 Fun fact: Sometimes my code works on the first try... and I get suspicious.🔥 "Every expert was once a beginner who didn’t quit."
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
