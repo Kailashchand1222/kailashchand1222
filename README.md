@@ -3,7 +3,7 @@
 
 <!-- ✅ Profile Photo -->
 <p align="center">
-  <img src="https://www.facebook.com/0fficialShinchan/" width="150" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/kailashchand1222/kailashchand1222/main/profile.jpg" width="160" style="border-radius:50%; border: 3px solid #00F7FF;" />
 </p>
 
 <!-- ✅ Typing Animation -->
@@ -41,12 +41,12 @@ Problem Solving ███████░░░░ 70%
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html" />
 </p>
 
 ### ⚙️ Tools & Technologies
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=unity,ps" />
 </p>
 
@@ -79,13 +79,14 @@ I am currently working on uploading quality projects. Stay tuned!
 
 ## 🌐 Portfolio
 
-💼 Portfolio Website :https://kailashchand1222.com.np/ 
+💼 Portfolio Website:  
+👉 https://kailashchand1222.com.np/
 
-
+---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/kailash-chand-thakuri-2b9996316">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
